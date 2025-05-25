@@ -162,7 +162,7 @@
         android:layout_marginEnd="36dp"
         android:layout_marginBottom="324dp"
         android:fontFamily="@font/alexandria_medium"
-        android:text="Questions will appear here. Click on start quiz to got to the actual page"
+        android:text="Get ready!!"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
