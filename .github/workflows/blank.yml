@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Set up Java 17 for Android
-        uses: actions/setup-java@3
+        uses: actions/setup-java@4
         with: 
           distribution: 'zulu'
           java-version: '17'
