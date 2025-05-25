@@ -22,16 +22,18 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
 
       # Runs a single command using the runners shell
-      - name: Set up Java 17 for Android
+      - name: Checkout code
         uses: actions/setup-java@4
+      - name: Set up Java 17 for Android
+        uses: actions/setup-java@v3
         with: 
           distribution: 'zulu'
           java-version: '17'
+          
       - name: Make gradlew executable 
         run: chmod +x gradlew
+        
       - name: Build with Gradle
         run: ./gradlew assembleDebug
