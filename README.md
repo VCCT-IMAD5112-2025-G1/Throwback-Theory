@@ -68,7 +68,7 @@ A dedicated exit button allows users to close the app gracefuly from the feedbac
 ![Feedback page with feedback](https://github.com/user-attachments/assets/750b7858-6fab-40b2-ba36-b47dfd2a1bb3)
 ## Video
 
-https://youtu.be/zLdVcx-hx5I
+https://youtu.be/VPCRW9PWUyI?si=a4d06rKkaVYv-ctL
 A clickable link to my YouTube video explaining my app and it's functionality 
 ## Requirements
 
