@@ -55,12 +55,17 @@ A dedicated exit button allows users to close the app gracefuly from the feedbac
 
 ## Screenshots
 
+![Front Page](https://github.com/user-attachments/assets/36eb6f1a-847d-4d37-b703-94da7ff976e3)
 
-![Welcome Page](https://github.com/user-attachments/assets/fb20dbed-bb5b-45ce-9f3c-81860eb6016d)
+![Tester Page](https://github.com/user-attachments/assets/935d540a-0354-4dc9-a794-f74e24a3b7e2)
 
-![Home Page](https://github.com/user-attachments/assets/1c9b12ee-56b2-4464-971c-ed05155ce52c)
+![First flashcard Page](https://github.com/user-attachments/assets/5bd469b2-3600-4a64-bc95-3f4ee1f34386)
 
-![New users Page](https://github.com/user-attachments/assets/cc096366-7377-43c3-b771-fc0758b7e079)
+![Last flashcard page](https://github.com/user-attachments/assets/0104c69b-e105-498a-af73-1c19f9abe1fd)
+
+![Feedback page with no feed](https://github.com/user-attachments/assets/2f7ef80a-7845-48ac-a48d-3e74b3ca75cc)
+
+![Feedback page with feedback](https://github.com/user-attachments/assets/750b7858-6fab-40b2-ba36-b47dfd2a1bb3)
 ## Video
 
 https://youtu.be/zLdVcx-hx5I
